@@ -6,7 +6,7 @@ Outside of school, I love playing card games: blackjack, spades, texas hold 'em,
 To practice my coding skills and, more importantly, get an edge over my friends a family, I wish to code some of my favorite card games to be able to play whenever I want. 
 
 So, this is a place for me to share some of the few assignments I am able to share or the projects I have made for fun! 
-If you are looking to collaborate or wish to roast me for my lack of programming skills, I can be contacted at coreyd39@vt.edu.
+If you are looking to collaborate or wish to roast me for my lack of programming skills, I can be contacted via email at coreyd39@vt.edu.
 
 <!---
 coreyd39/coreyd39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
